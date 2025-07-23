@@ -10,14 +10,34 @@
         </author>
         <description></description>
         <language>zh-CN</language>
-        <pubDate>Tue, 15 Jul 2025 08:01:32 +0800</pubDate>
-        <lastBuildDate>Tue, 15 Jul 2025 08:01:32 +0800</lastBuildDate>
+        <pubDate>Tue, 22 Jul 2025 13:25:21 +0800</pubDate>
+        <lastBuildDate>Tue, 22 Jul 2025 13:25:21 +0800</lastBuildDate>
+        <item>
+            <guid isPermalink="true">https://evan.qzz.io/2025/07/22/%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/</guid>
+            <title>免费搭建域名邮箱</title>
+            <link>https://evan.qzz.io/2025/07/22/%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E5%9F%9F%E5%90%8D%E9%82%AE%E7%AE%B1/</link>
+            <category term="网站" scheme="https://evan.qzz.io/categories/%E7%BD%91%E7%AB%99/" />
+            <category term="邮箱" scheme="https://evan.qzz.io/tags/%E9%82%AE%E7%AE%B1/" />
+            <category term="cloudflare" scheme="https://evan.qzz.io/tags/cloudflare/" />
+            <category term="网站" scheme="https://evan.qzz.io/tags/%E7%BD%91%E7%AB%99/" />
+            <pubDate>Tue, 22 Jul 2025 13:25:21 +0800</pubDate>
+            <description><![CDATA[ &lt;p&gt;使用 cloudflare workers 搭建邮箱&lt;/p&gt;
+&lt;p&gt;项目地址：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0xhemllc3RSZW4vY2xvdWQtbWFpbA==&#34;&gt;https://github.com/LaziestRen/cloud-mail&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;部署教程：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9kb2Muc2t5bWFpbC5pbms=&#34;&gt;https://doc.skymail.ink&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;我的域名邮箱：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYWlsLmV2YW4ucXp6Lmlv&#34;&gt;https://mail.evan.qzz.io&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
+        </item>
         <item>
             <guid isPermalink="true">https://evan.qzz.io/2025/07/15/%E6%89%8B%E6%9C%BA%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E6%95%99%E7%A8%8B/</guid>
             <title>手机免费搭建博客网站教程</title>
             <link>https://evan.qzz.io/2025/07/15/%E6%89%8B%E6%9C%BA%E5%85%8D%E8%B4%B9%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99%E6%95%99%E7%A8%8B/</link>
             <pubDate>Tue, 15 Jul 2025 08:01:32 +0800</pubDate>
-            <description><![CDATA[  ]]></description>
+            <description><![CDATA[ &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vaHVhbmhhby9wL2hleG9iYXNlLmh0bWw=&#34;&gt;【基础篇】hexo 博客搭建教程 - huanhao - 博客园&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9jb25maWcv&#34;&gt;Step.2 基本配置 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 有夢書架 = 吾乃天，壶中之天&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zaG9rYS5sb3N0eXUubWUvY29tcHV0ZXItc2NpZW5jZS9ub3RlL3RoZW1lLXNob2thLWRvYy9kaXNwbGF5Lw==&#34;&gt;Step.3 界面显示 - Theme Shoka Documentation - 二进制杂谈 - 计算机科学 | Yume Shoka = 有夢書架 = 吾乃天，壶中之天&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25ibG9ncy5jb20vaHVhbmhhby9wL21hcmtkb3duLmh0bWw=&#34;&gt;【hexo 博客进阶】1.Markdown 语法 - huanhao - 博客园&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pbWdzZS5jb20v&#34;&gt;路过图床 - 免费图片上传，专业图片外链，免费公共图床&lt;/span&gt;&lt;/p&gt;
+ ]]></description>
         </item>
     </channel>
 </rss>
